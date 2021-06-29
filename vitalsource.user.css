@@ -7,32 +7,37 @@
 ==/UserStyle== */
 
 @-moz-document domain("vitalsource.com") {
+    :root{
+        --myfontsize: 14pt;
+        --mylineheight: 20pt;
+    }
     .TextParagraph {
-        font-size: 14pt !important;
-        line-height: 20pt !important;
+        font-size: var(--myfontsize) !important;
+        line-height: var(--mylineheight) !important;
     }
     .TextFlush {
-        font-size: 14pt !important;
-        line-height: 20pt !important;
+        font-size: var(--myfontsize) !important;
+        line-height: var(--mylineheight) !important;
     }
     .NoteTextParagraph {
-        font-size: 14pt !important;
-        line-height: 20pt !important;
+        font-size: var(--myfontsize) !important;
+        line-height: var(--mylineheight) !important;
     }
     .indent {
-        font-size: 14pt !important;
-        line-height: 20pt !important;
+        font-size: var(--myfontsize) !important;
+        line-height: var(--mylineheight) !important;
     }
     .indentbull {
-        font-size: 14pt !important;
-        line-height: 20pt !important;
+        font-size: var(--myfontsize) !important;
+        line-height: var(--mylineheight) !important;
     }
     .noindent {
-        font-size: 14pt !important;
-        line-height: 20pt !important;
+        font-size: var(--myfontsize) !important;
+        line-height: var(--mylineheight) !important;
     }
     .box-para {
-        font-size: 14pt !important;
-        line-height: 20pt !important;
+        font-size: var(--myfontsize) !important;
+        line-height: var(--mylineheight) !important;
     }
+
 }
