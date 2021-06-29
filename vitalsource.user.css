@@ -1,9 +1,11 @@
 /* ==UserStyle==
 @name           Vitalsource Fontsize Fix
-@namespace      github.com/openstyles/stylus
+@namespace      https://github.com/Lithovox
 @version        1.0.0
 @description    Makes the text larger in certain Vitalsource textbooks with broken formatting
 @author         Lithovox
+@homepageURL    https://github.com/Lithovox
+@license        Unlicense
 ==/UserStyle== */
 
 @-moz-document domain("vitalsource.com") {
@@ -39,5 +41,5 @@
         font-size: var(--myfontsize) !important;
         line-height: var(--mylineheight) !important;
     }
-
+    /* Add additional classes here */
 }
