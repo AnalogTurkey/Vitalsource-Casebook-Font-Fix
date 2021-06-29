@@ -1,7 +1,7 @@
 # Vitalsource-Casebook-Font-Fix
-CSS (used with Stylus extension) to make the text larger in Vitalsource textbooks with broken formatting
+CSS (used with Stylus extension) to make the text larger in Vitalsource textbooks with broken formatting.
 
-### Instllation
+### Installation
 Install the [Stylus extension](https://add0n.com/stylus.html)
 
 Click [here](https://github.com/Lithovox/Vitalsource-Casebook-Font-Fix/raw/main/vitalsource.user.css) to install the style.
