@@ -7,7 +7,7 @@ Install the [Stylus extension](https://add0n.com/stylus.html)
 Click [here](https://github.com/Lithovox/Vitalsource-Casebook-Font-Fix/raw/main/vitalsource.user.css) to install the style.
 
 ### Editing
-This is meant for people with no CSS experience, i.e. the average user, and possibly whoever at Vitalsource decided that formatting each line in a textbook using a different class unaffected by the user's preferences was a good idea.
+This section is meant for people with no CSS experience, i.e. the average user, and possibly whoever at Vitalsource decided that formatting each line in a textbook using a different class unaffected by the user's preferences was a good idea.
 
 #### Adding new text classes
 Since Vitalsource uses so many different classes to refer to text, it's inevitable that some text doesn't get resized. To make the code automatically resize additional types of text:
