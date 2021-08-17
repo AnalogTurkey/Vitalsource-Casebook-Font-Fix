@@ -41,5 +41,9 @@
         font-size: var(--myfontsize) !important;
         line-height: var(--mylineheight) !important;
     }
+    .text {
+        font-size: var(--myfontsize) !important;
+        line-height: var(--mylineheight) !important;
+    }
     /* Add additional classes here */
 }
